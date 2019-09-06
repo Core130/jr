@@ -6,3 +6,11 @@ D:\SVNDATA\J02_京润\JRWebAPI\JR.DAL\bin\Debug\JR.HL.pdb
 D:\SVNDATA\J02_京润\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.csprojResolveAssemblyReference.cache
 D:\SVNDATA\J02_京润\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.pdb
+D:\mygit\jr\JRWebAPI\JR.DAL\bin\Debug\JR.DAL.dll
+D:\mygit\jr\JRWebAPI\JR.DAL\bin\Debug\JR.DAL.pdb
+D:\mygit\jr\JRWebAPI\JR.DAL\bin\Debug\JR.HL.dll
+D:\mygit\jr\JRWebAPI\JR.DAL\bin\Debug\log4net.dll
+D:\mygit\jr\JRWebAPI\JR.DAL\bin\Debug\JR.HL.pdb
+D:\mygit\jr\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.csprojResolveAssemblyReference.cache
+D:\mygit\jr\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.dll
+D:\mygit\jr\JRWebAPI\JR.DAL\obj\Debug\JR.DAL.pdb

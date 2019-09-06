@@ -4,3 +4,7 @@ D:\SVNDATA\J02_京润\JRWebAPI\JR.HL\bin\Debug\log4net.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JR.HL\obj\Debug\JR.HL.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JR.HL\obj\Debug\JR.HL.pdb
 D:\SVNDATA\J02_京润\JRWebAPI\JR.HL\obj\Debug\JR.HL.csprojResolveAssemblyReference.cache
+D:\mygit\jr\JRWebAPI\JR.HL\bin\Debug\JR.HL.dll
+D:\mygit\jr\JRWebAPI\JR.HL\bin\Debug\JR.HL.pdb
+D:\mygit\jr\JRWebAPI\JR.HL\obj\Debug\JR.HL.dll
+D:\mygit\jr\JRWebAPI\JR.HL\obj\Debug\JR.HL.pdb

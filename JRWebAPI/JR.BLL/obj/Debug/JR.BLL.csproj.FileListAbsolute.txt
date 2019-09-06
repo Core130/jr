@@ -10,3 +10,15 @@ D:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\bin\Debug\JR.Models.pdb
 D:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.csprojResolveAssemblyReference.cache
 D:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.pdb
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.BLL.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.BLL.pdb
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.DAL.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.HL.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.Models.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\log4net.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.DAL.pdb
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.HL.pdb
+D:\mygit\jr\JRWebAPI\JR.BLL\bin\Debug\JR.Models.pdb
+D:\mygit\jr\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.csprojResolveAssemblyReference.cache
+D:\mygit\jr\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.dll
+D:\mygit\jr\JRWebAPI\JR.BLL\obj\Debug\JR.BLL.pdb

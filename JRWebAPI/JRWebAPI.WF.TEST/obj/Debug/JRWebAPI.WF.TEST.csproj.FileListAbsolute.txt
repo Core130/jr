@@ -12,3 +12,17 @@ D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.pdb
 D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\Newtonsoft.Json.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.dll
 D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.pdb
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JRWebAPI.WF.TEST.exe
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JRWebAPI.WF.TEST.pdb
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.HL.dll
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.dll
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\Newtonsoft.Json.dll
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\log4net.dll
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.HL.pdb
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.pdb
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.csprojResolveAssemblyReference.cache
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.Form1.resources
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.Properties.Resources.resources
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.csproj.GenerateResource.Cache
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.exe
+D:\mygit\jr\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.pdb
