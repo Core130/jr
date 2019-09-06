@@ -1,0 +1,16 @@
+Info时间：2017-11-28 13:41:35,170 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity={"cVenCode":"09001","cInvCode":"1010100001","noSettleTaxCost":0.0,"SettleTaxCost":0.0,"VenInvPrice":0.0};ModelType=8024; 
+
+Info时间：2017-11-28 13:41:38,188 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cVenCode":null,"cInvCode":"1010100001","noSettleTaxCost":6.000000,"SettleTaxCost":6.000000,"VenInvPrice":6.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-28 13:52:54,085 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity={"cVenCode":"09001","cInvCode":"1010100001","noSettleTaxCost":0.0,"SettleTaxCost":0.0,"VenInvPrice":0.0};ModelType=8024; 
+
+Info时间：2017-11-28 13:52:54,177 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cVenCode":null,"cInvCode":"1010100001","noSettleTaxCost":6.000000,"SettleTaxCost":6.000000,"VenInvPrice":6.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-28 14:03:58,324 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity={"cVenCode":"09001","cInvCode":"1010100001","noSettleTaxCost":0.0,"SettleTaxCost":0.0,"VenInvPrice":0.0};ModelType=8024; 
+
+Info时间：2017-11-28 14:03:58,392 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cVenCode":null,"cInvCode":"1010100001","noSettleTaxCost":6.000000,"SettleTaxCost":6.000000,"VenInvPrice":6.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-28 14:04:20,139 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity={"cVenCode":"09001","cInvCode":"1010100001","noSettleTaxCost":0.0,"SettleTaxCost":0.0,"VenInvPrice":0.0};ModelType=8024; 
+
+Info时间：2017-11-28 14:04:20,471 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cVenCode":"09001","cInvCode":"1010100001","noSettleTaxCost":6.000000,"SettleTaxCost":6.000000,"VenInvPrice":6.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------

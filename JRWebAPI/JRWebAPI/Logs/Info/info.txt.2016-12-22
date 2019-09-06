@@ -1,0 +1,84 @@
+Info时间：2016-12-22 10:31:54,561 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"DLID":0,"cVouchType":null,"cSTCode":null,"dDate":"0001-01-01T00:00:00","cDepCode":null,"cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":null,"cCusName":null,"cBusType":null,"cDLCode":"SZ161200000359","cSOCode":null,"cDefine1":null,"cMaker":null,"cSysBarCode":null,"cDefine3":null,"cMemo":null,"Details":null};ModelType=8003; 
+
+Info时间：2016-12-22 10:31:55,202 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:32:27,499 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"DLID":0,"cVouchType":null,"cSTCode":null,"dDate":"0001-01-01T00:00:00","cDepCode":null,"cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":null,"cCusName":null,"cBusType":null,"cDLCode":"SZ161200000359","cSOCode":null,"cDefine1":null,"cMaker":null,"cSysBarCode":null,"cDefine3":null,"cMemo":null,"Details":null};ModelType=8003; 
+
+Info时间：2016-12-22 10:32:27,593 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:32:33,906 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"DLID":0,"cVouchType":null,"cSTCode":null,"dDate":"0001-01-01T00:00:00","cDepCode":null,"cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":null,"cCusName":null,"cBusType":null,"cDLCode":"DHTHSQ201612060001","cSOCode":null,"cDefine1":null,"cMaker":null,"cSysBarCode":null,"cDefine3":null,"cMemo":null,"Details":null};ModelType=8003; 
+
+Info时间：2016-12-22 10:32:34,000 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:32:38,078 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"DLID":0,"cVouchType":null,"cSTCode":null,"dDate":"0001-01-01T00:00:00","cDepCode":null,"cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":null,"cCusName":null,"cBusType":null,"cDLCode":"DHTHSQ201612060002","cSOCode":null,"cDefine1":null,"cMaker":null,"cSysBarCode":null,"cDefine3":null,"cMemo":null,"Details":null};ModelType=8003; 
+
+Info时间：2016-12-22 10:32:38,141 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:33:51,126 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cBusType":null,"cRdCode":null,"cDepCode":null,"cMaker":null,"cDefine1":null,"cCusCode":null,"cDefine11":null,"cDefine8":null,"cDefine10":null,"VT_ID":0,"cShipAddress":null,"bOMFirst":0,"dnmaketime":"0001-01-01T00:00:00","csysbarcode":null,"cMemo":null,"bRdFlag":0,"cWhCode":null,"blsSTQc":0,"ID":0,"cVouchType":null,"cSource":null,"dDate":"0001-01-01T00:00:00","cCode":"DHTHSQ201612060002","bTransFlag":0,"Details":null};ModelType=8002; 
+
+Info时间：2016-12-22 10:33:51,236 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:33:51,298 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cBusType":null,"cRdCode":null,"cDepCode":null,"cMaker":null,"cDefine1":null,"cCusCode":null,"cDefine11":null,"cDefine8":null,"cDefine10":null,"VT_ID":0,"cShipAddress":null,"bOMFirst":0,"dnmaketime":"0001-01-01T00:00:00","csysbarcode":null,"cMemo":null,"bRdFlag":0,"cWhCode":null,"blsSTQc":0,"ID":0,"cVouchType":null,"cSource":null,"dDate":"0001-01-01T00:00:00","cCode":"DHTHSQ201612060002","bTransFlag":0,"Details":null};ModelType=8002; 
+
+Info时间：2016-12-22 10:33:51,376 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:33:53,611 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cBusType":null,"cRdCode":null,"cDepCode":null,"cMaker":null,"cDefine1":null,"cCusCode":null,"cDefine11":null,"cDefine8":null,"cDefine10":null,"VT_ID":0,"cShipAddress":null,"bOMFirst":0,"dnmaketime":"0001-01-01T00:00:00","csysbarcode":null,"cMemo":null,"bRdFlag":0,"cWhCode":null,"blsSTQc":0,"ID":0,"cVouchType":null,"cSource":null,"dDate":"0001-01-01T00:00:00","cCode":"DHTHSQ201612060002","bTransFlag":0,"Details":null};ModelType=8002; 
+
+Info时间：2016-12-22 10:33:53,689 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:34:13,527 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cBusType":null,"cRdCode":null,"cDepCode":null,"cMaker":null,"cDefine1":null,"cCusCode":null,"cDefine11":null,"cDefine8":null,"cDefine10":null,"VT_ID":0,"cShipAddress":null,"bOMFirst":0,"dnmaketime":"0001-01-01T00:00:00","csysbarcode":null,"cMemo":null,"bRdFlag":0,"cWhCode":null,"blsSTQc":0,"ID":0,"cVouchType":null,"cSource":null,"dDate":"0001-01-01T00:00:00","cCode":"PSCK2016120290","bTransFlag":0,"Details":null};ModelType=8002; 
+
+Info时间：2016-12-22 10:34:13,621 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 10:35:39,464 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cSOCode":"11611304","dDate":"0001-01-01T00:00:00","cBusType":null,"cSTCode":null,"cCusCode":null,"cCusName":null,"cPayCode":null,"cDepCode":null,"iTaxRate":0.0,"cexch_name":null,"cMemo":null,"iExchRate":0.0,"iVTid":null,"bReturnFlag":0,"cMaker":null,"iStatus":0,"cDefine1":null,"cDefine8":null,"cDefine12":null,"cCusOAddress":null,"cSysBarCode":null,"cDefine14":null,"cDefine3":null,"Details":null};ModelType=8001; 
+
+Info时间：2016-12-22 10:35:39,558 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:03:04,863 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"POID":0,"cPOID":"1","dPODate":"0001-01-01T00:00:00","cVenCode":null,"cexch_name":null,"nflat":null,"iTaxRate":null,"cMaker":null,"iVTid":0,"cBusType":null,"iDiscountTaxType":0,"cmaketime":null,"cState":0,"iVerifyStateex":0,"cSysbarCode":null,"Details":null};ModelType=8015; 
+
+Info时间：2016-12-22 11:03:05,203 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:03:16,657 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"POID":0,"cPOID":"11611304","dPODate":"0001-01-01T00:00:00","cVenCode":null,"cexch_name":null,"nflat":null,"iTaxRate":null,"cMaker":null,"iVTid":0,"cBusType":null,"iDiscountTaxType":0,"cmaketime":null,"cState":0,"iVerifyStateex":0,"cSysbarCode":null,"Details":null};ModelType=8015; 
+
+Info时间：2016-12-22 11:03:16,732 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:38:48,251 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"POID":0,"cPOID":"1","dPODate":"0001-01-01T00:00:00","cVenCode":null,"cexch_name":null,"nflat":null,"iTaxRate":null,"cMaker":null,"iVTid":0,"cBusType":null,"iDiscountTaxType":0,"cmaketime":null,"cState":0,"iVerifyStateex":0,"cSysbarCode":null,"Details":null};ModelType=8015; 
+
+Info时间：2016-12-22 11:38:48,657 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:39:17,392 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cDigest":null,"iAmount":0.0,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"cNatBank":null,"cNatBankAccount":null,"cDefine2":null,"cDefine9":null,"cDefine10":null,"dcreatesystime":"0001-01-01T00:00:00","cDeptCode":null,"iPayType":0,"cVouchType":null,"cVouchID":"SZ161200000251","dVouchDate":"0001-01-01T00:00:00","iPeriod":0,"cDwCode":null,"cexch_name":null,"cOperator":null,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"cSSCode":null,"cNatBankCode":null,"iExchRate":0.0,"bPrePay":0,"csysbarcode":null,"Details":null};ModelType=8004; 
+
+Info时间：2016-12-22 11:39:17,486 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:39:23,284 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cDigest":null,"iAmount":0.0,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"cNatBank":null,"cNatBankAccount":null,"cDefine2":null,"cDefine9":null,"cDefine10":null,"dcreatesystime":"0001-01-01T00:00:00","cDeptCode":null,"iPayType":0,"cVouchType":null,"cVouchID":"SZ161200000251","dVouchDate":"0001-01-01T00:00:00","iPeriod":0,"cDwCode":null,"cexch_name":null,"cOperator":null,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"cSSCode":null,"cNatBankCode":null,"iExchRate":0.0,"bPrePay":0,"csysbarcode":null,"Details":null};ModelType=8004; 
+
+Info时间：2016-12-22 11:39:23,362 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:39:42,189 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cDigest":null,"iAmount":0.0,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"cNatBank":null,"cNatBankAccount":null,"cDefine2":null,"cDefine9":null,"cDefine10":null,"dcreatesystime":"0001-01-01T00:00:00","cDeptCode":null,"iPayType":0,"cVouchType":null,"cVouchID":"HKTZ201612090017","dVouchDate":"0001-01-01T00:00:00","iPeriod":0,"cDwCode":null,"cexch_name":null,"cOperator":null,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"cSSCode":null,"cNatBankCode":null,"iExchRate":0.0,"bPrePay":0,"csysbarcode":null,"Details":null};ModelType=8004; 
+
+Info时间：2016-12-22 11:39:42,267 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:40:05,441 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cDigest":null,"iAmount":0.0,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"cNatBank":null,"cNatBankAccount":null,"cDefine2":null,"cDefine9":null,"cDefine10":null,"dcreatesystime":"0001-01-01T00:00:00","cDeptCode":null,"iPayType":0,"cVouchType":null,"cVouchID":"HXTZ201612090017","dVouchDate":"0001-01-01T00:00:00","iPeriod":0,"cDwCode":null,"cexch_name":null,"cOperator":null,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"cSSCode":null,"cNatBankCode":null,"iExchRate":0.0,"bPrePay":0,"csysbarcode":null,"Details":null};ModelType=8004; 
+
+Info时间：2016-12-22 11:40:05,503 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:40:08,300 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cDigest":null,"iAmount":0.0,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"cNatBank":null,"cNatBankAccount":null,"cDefine2":null,"cDefine9":null,"cDefine10":null,"dcreatesystime":"0001-01-01T00:00:00","cDeptCode":null,"iPayType":0,"cVouchType":null,"cVouchID":"HXTZ201612090018","dVouchDate":"0001-01-01T00:00:00","iPeriod":0,"cDwCode":null,"cexch_name":null,"cOperator":null,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"cSSCode":null,"cNatBankCode":null,"iExchRate":0.0,"bPrePay":0,"csysbarcode":null,"Details":null};ModelType=8004; 
+
+Info时间：2016-12-22 11:40:08,394 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:40:23,650 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cLink":null,"cVouchType":null,"cVouchID":"SZPL00820161100002","dVouchDate":"0001-01-01T00:00:00","cDwCode":null,"cexch_name":null,"iRAmount":null,"iAmount":null,"iAmount_f":null,"iRAmount_f":null,"cFlag":null,"VT_ID":null,"iClosesID":null,"iCoClosesID":null,"iExchRate":null,"bd_c":0,"cOperator":null,"dcreatesystime":null,"cSysBarCode":null,"Details":null};ModelType=8011; 
+
+Info时间：2016-12-22 11:40:23,744 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:40:30,166 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"POID":0,"cPOID":"SZPL00820161100002","dPODate":"0001-01-01T00:00:00","cVenCode":null,"cexch_name":null,"nflat":null,"iTaxRate":null,"cMaker":null,"iVTid":0,"cBusType":null,"iDiscountTaxType":0,"cmaketime":null,"cState":0,"iVerifyStateex":0,"cSysbarCode":null,"Details":null};ModelType=8015; 
+
+Info时间：2016-12-22 11:40:30,244 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:42:20,328 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"ID":0,"bRdFlag":0,"cVouchType":null,"cBusType":null,"cPTCode":null,"cSource":null,"cWhCode":null,"dDate":"0001-01-01T00:00:00","cCode":"1","cRdCode":null,"cVenCode":null,"cMemo":null,"bTransFlag":0,"cMaker":null,"VT_ID":0,"bIsSTQc":0,"iTaxRate":null,"iExchRate":null,"cExch_Name":null,"cOrderCode":null,"cSysbarCode":null,"Details":null};ModelType=8016; 
+
+Info时间：2016-12-22 11:42:20,750 日志信息：返回数据：{"Success":1,"Message":"new","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2016-12-22 11:42:33,283 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"ID":0,"bRdFlag":0,"cVouchType":null,"cBusType":null,"cPTCode":null,"cSource":null,"cWhCode":null,"dDate":"0001-01-01T00:00:00","cCode":"SZ161200000251","cRdCode":null,"cVenCode":null,"cMemo":null,"bTransFlag":0,"cMaker":null,"VT_ID":0,"bIsSTQc":0,"iTaxRate":null,"iExchRate":null,"cExch_Name":null,"cOrderCode":null,"cSysbarCode":null,"Details":null};ModelType=8016; 
+
+Info时间：2016-12-22 11:42:33,361 日志信息：返回数据：{"Success":2,"Message":"old","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------

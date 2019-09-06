@@ -1,0 +1,8 @@
+Info时间：2017-11-02 09:44:26,293 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCCode":"1888888","cInvCName":"测试存货分类","iInvCGrade":2};ModelType=8023; 
+
+Info时间：2017-11-02 09:44:26,749 日志信息：返回数据：{"Success":0,"Message":"006_存货分类编码有误,上级编码不存在!","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-02 09:44:31,314 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCode":"test123","cInvName":"测试存货123","cInvStd":"4*4","cInvCCode":"101","cMaker":null,"bBarCode":null,"cBarCode":"201707111513","iInvSPrice":8.0,"fRetailPrice":50.0,"cPackingType":"4箱*4","cGroupCode":null,"cComUnitCode":"个","cValueType":"全月平均法"};ModelType=8012; 
+
+Info时间：2017-11-02 09:44:31,679 日志信息：返回数据：{"Success":1,"Message":"006_test123","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------

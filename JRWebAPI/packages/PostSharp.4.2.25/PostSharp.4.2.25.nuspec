@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PostSharp</id>
+    <version>4.2.25</version>
+    <title>PostSharp</title>
+    <authors>PostSharp Technologies</authors>
+    <owners>PostSharp Technologies</owners>
+    <licenseUrl>https://www.postsharp.net/links/nuget-license</licenseUrl>
+    <projectUrl>https://www.postsharp.net/links/nuget-home</projectUrl>
+    <iconUrl>https://www.postsharp.net/nuget/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The #1 pattern-aware extension to C# and VB.</description>
+    <summary>The #1 pattern-aware extension to C# and VB. Allows developers to eradicate boilerplate by offloading repeating work from humans to machines. PostSharp contains ready-made implementations of the most common patterns and gives you the tools to build automation for your own patterns.</summary>
+    <language>en-US</language>
+    <tags>postsharp sharcrafters post-compiler postcompiler aop aspect castle spring dynamic interceptor interception unity dependency di monitoring instrumentation logging tracing design pattern exception handling</tags>
+  </metadata>
+</package>

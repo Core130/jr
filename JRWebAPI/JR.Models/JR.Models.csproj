@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E683F1CF-1046-4C6B-9C10-59F9B76D83DE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JR.Models</RootNamespace>
+    <AssemblyName>JR.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseEntity.cs" />
+    <Compile Include="EntityAp_CloseBill.cs" />
+    <Compile Include="EntityAp_Vouch.cs" />
+    <Compile Include="EntityBank.cs" />
+    <Compile Include="EntityCheckAttribute.cs" />
+    <Compile Include="EntityCheckVouch.cs" />
+    <Compile Include="EntityComputationUnit.cs" />
+    <Compile Include="EntityCurrentStock.cs" />
+    <Compile Include="EntityCustomer.cs" />
+    <Compile Include="EntityDispatchList.cs" />
+    <Compile Include="EntityInventory.cs" />
+    <Compile Include="EntityInventoryClass.cs" />
+    <Compile Include="EntityInventoryPrice.cs" />
+    <Compile Include="EntityPO_Pomain.cs" />
+    <Compile Include="EntityPurchaseType.cs" />
+    <Compile Include="EntityRdRecord01.cs" />
+    <Compile Include="EntityRdRecord09.cs" />
+    <Compile Include="Entityrd_Style.cs" />
+    <Compile Include="EntityReturnAnalysisReport.cs" />
+    <Compile Include="EntityReturnAnalysisRQC.cs" />
+    <Compile Include="EntitySomain.cs" />
+    <Compile Include="CommonEntity.cs" />
+    <Compile Include="EntitySettleStyle.cs" />
+    <Compile Include="EntityST_AppTransVouch.cs" />
+    <Compile Include="EntityTransVouch.cs" />
+    <Compile Include="EntityVendor.cs" />
+    <Compile Include="EntityWareHouse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JRWebAPI.WF.TEST.exe
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JRWebAPI.WF.TEST.pdb
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.HL.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\log4net.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.HL.pdb
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.csprojResolveAssemblyReference.cache
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.Form1.resources
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.Properties.Resources.resources
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.csproj.GenerateResource.Cache
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.exe
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\obj\Debug\JRWebAPI.WF.TEST.pdb
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\Newtonsoft.Json.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI.WF.TEST\bin\Debug\JR.Models.pdb

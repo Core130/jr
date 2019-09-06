@@ -1,0 +1,20 @@
+Info时间：2017-04-01 09:56:48,958 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=jrzz;CipherPassword=52657K696W6570614K;StrAccID=006;Act=add;Entity={"cVenCode":"SZ0075","cVenName":"测试","cVenAbbName":"测试","cVcCode":"01","cMaker":null};ModelType=8009; 
+
+Info时间：2017-04-01 09:56:57,739 日志信息：返回数据：{"Success":0,"Message":"')' 附近有语法错误。","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-04-01 09:57:38,534 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=jrzz;CipherPassword=52657K696W6570614K;StrAccID=006;Act=add;Entity={"cVenCode":"SZ0075","cVenName":"测试","cVenAbbName":"测试","cVcCode":"01","cMaker":null};ModelType=8009; 
+
+Info时间：2017-04-01 09:57:40,596 日志信息：返回数据：{"Success":0,"Message":"')' 附近有语法错误。","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-04-01 09:59:44,225 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=jrzz;CipherPassword=52657K696W6570614K;StrAccID=006;Act=add;Entity={"cVenCode":"SZ0075","cVenName":"测试","cVenAbbName":"测试","cVcCode":"01","cMaker":null};ModelType=8009; 
+
+Info时间：2017-04-01 09:59:44,491 日志信息：返回数据：{"Success":0,"Message":"U8中已存在供应商编码:SZ0075!","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-04-01 10:00:05,393 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=jrzz;CipherPassword=52657K696W6570614K;StrAccID=006;Act=add;Entity={"cVenCode":"SZ0075","cVenName":"测试","cVenAbbName":"测试","cVcCode":"01","cMaker":null};ModelType=8009; 
+
+Info时间：2017-04-01 10:00:05,518 日志信息：返回数据：{"Success":1,"Message":"SZ0075","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-04-01 10:00:41,194 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=jrzz;CipherPassword=52657K696W6570614K;StrAccID=006;Act=add;Entity={"cVenCode":"SZ0075","cVenName":"测试","cVenAbbName":"测试","cVcCode":"011","cMaker":null};ModelType=8009; 
+
+Info时间：2017-04-01 10:00:41,210 日志信息：返回数据：{"Success":0,"Message":"U8中不存在供应商分类编码:011!","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------

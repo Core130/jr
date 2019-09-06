@@ -1,0 +1,54 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <script src="~/Scripts/jquery-1.8.2.min.js"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>明文加密服务</title>
+</head>
+<body>
+    <div style="margin-left:auto;margin-right:auto;margin-top:50px;width:300px;">
+        <table border="0" cellpadding="0" cellspacing="0" style="width:300px;height:100px;">
+            <colgroup>
+                <col width="30%"/>
+                <col width="70%" />
+            </colgroup>
+            <tr>
+                <td align="right" style="font-size: 12px;">输入字符串:</td>
+                <td>&nbsp;&nbsp;<input type="text" id="txtInput" /> </td>
+            </tr>
+            <tr>
+                <td align="right" style="font-size: 12px;">输出密文:</td>
+                <td>&nbsp;&nbsp;<input type="text" id="txtOutput" /> </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="center">
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input id="btnEncrypt" type="button" value="加密" />
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+<script type="text/javascript">
+    $("#btnEncrypt").click(function () {        
+        Help.Encrypt($("#txtInput").val());
+    });
+    var Help = {};
+    Help.Encrypt = function (plaintext) {
+        $.ajax({
+            url: "/APIHelp/Encrypt",
+            data: { "plaintext": plaintext },
+            type: "POST",
+            success: function (data, textStatus, jqXHR) {
+                $("#txtOutput").val(data);
+            },
+            error: function (XMLHttpRequest, textStatus, errorThrown) {                
+                alert(textStatus);
+            }
+        });
+    };
+</script>

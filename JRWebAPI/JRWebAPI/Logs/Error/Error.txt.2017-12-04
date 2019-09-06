@@ -1,0 +1,149 @@
+出错时间：2017-12-04 09:34:20,861 日志信息：System.Data.SqlClient.SqlException (0x80131904): 'isnull' 附近有语法错误。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 503
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, Int32 Kind, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 339
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 104
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:568de1eb-97c1-47aa-a72f-43f8c36f6043
+Error Number:102,State:1,Class:15
+出错时间：2017-12-04 10:17:39,582 日志信息：System.Data.SqlClient.SqlException (0x80131904): 关键字 'IF' 附近有语法错误。
+')' 附近有语法错误。
+',' 附近有语法错误。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 514
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, Int32 Kind, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 339
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 104
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:f360362d-a4d7-4ce4-903c-3c78a0c8c1cb
+Error Number:156,State:1,Class:15
+出错时间：2017-12-04 10:17:59,834 日志信息：System.Data.SqlClient.SqlException (0x80131904): 关键字 'IF' 附近有语法错误。
+')' 附近有语法错误。
+',' 附近有语法错误。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 514
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, Int32 Kind, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 339
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 104
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:f360362d-a4d7-4ce4-903c-3c78a0c8c1cb
+Error Number:156,State:1,Class:15
+出错时间：2017-12-04 10:59:00,554 日志信息：System.Data.SqlClient.SqlException (0x80131904): '/' 附近有语法错误。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+必须声明标量变量 "@cWhCode"。
+'@cInvCode' 附近有语法错误。
+   在 JR.BLL.RdRecord01Bll.InsertRdRecord01(EntityRdRecord01Head RdRecord01Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 326
+   在 JR.BLL.RdRecord01Bll.AddRdRecord01(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, Int32 kind, EntityRdRecord01Head entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 162
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 152
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:6786c216-eed8-4f4d-9c4f-5abb77adb1b7
+Error Number:102,State:1,Class:15
+出错时间：2017-12-04 11:00:55,949 日志信息：System.Data.SqlClient.SqlException (0x80131904): '/' 附近有语法错误。
+'/' 附近有语法错误。
+'@cInvCode' 附近有语法错误。
+   在 JR.BLL.RdRecord01Bll.InsertRdRecord01(EntityRdRecord01Head RdRecord01Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 327
+   在 JR.BLL.RdRecord01Bll.AddRdRecord01(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, Int32 kind, EntityRdRecord01Head entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 162
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 152
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:17fd0924-b4de-45ac-a2a8-1647a40cf221
+Error Number:102,State:1,Class:15
+出错时间：2017-12-04 11:01:16,613 日志信息：System.Data.SqlClient.SqlException (0x80131904): '/' 附近有语法错误。
+'/' 附近有语法错误。
+'@cInvCode' 附近有语法错误。
+   在 JR.BLL.RdRecord01Bll.InsertRdRecord01(EntityRdRecord01Head RdRecord01Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 327
+   在 JR.BLL.RdRecord01Bll.AddRdRecord01(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, Int32 kind, EntityRdRecord01Head entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord01Bll.cs:行号 162
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 152
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:710b7eed-1b5c-44a6-9385-ab283574b149
+Error Number:102,State:1,Class:15

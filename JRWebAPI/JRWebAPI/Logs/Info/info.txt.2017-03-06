@@ -1,0 +1,72 @@
+Info时间：2017-03-06 11:52:45,130 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 11:52:45,277 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 11:54:01,029 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 11:54:01,083 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 11:57:25,658 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 11:57:25,718 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 11:59:35,828 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels?UserCode=jrzz&CipherPassword=52552K1Y2Z3728377560745Y483K&ModelType=8018&StrAccID=006&Act=add&Entity={"cVouchType":"49","cVouchID":"SZHX20161100108","dVouchDate":"2017-03-06T00:00:00","iPeriod":0,"cDwCode":"SZ0028","cDeptCode":"SZ1304","cSSCode":"2","cexch_name":null,"iExchRate":0.0,"iAmount":8315.00,"iAmount_f":0.0,"iRAmount":0.0,"iRAmount_f":0.0,"bPrePay":0,"cFlag":null,"iID":0,"bFromBank":0,"bToBank":0,"bSure":0,"VT_ID":0,"iPayType":0,"cDefine9":"采购付款核销","cDefine10":"SZHX20161100108","Details":[{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":4184.83,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":1049.97,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":68.89,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":999.56,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":956.64,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":955.66,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"},{"iID":0,"ID":0,"iType":0,"bPrePay":0,"cCusVen":"SZ0028","iAmt_f":0.0,"iAmt":99.45,"iRAmt_f":0.0,"iRAmt":0.0,"ifaresettled_f":0.0,"DHID":"SZHX20161100108","cDefine22":"合同"}]}，请求数据为： 
+
+Info时间：2017-03-06 12:01:08,122 日志信息：返回数据：{"Success":0,"Message":"在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:08:55,657 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:08:55,859 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:11:54,771 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:11:54,835 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:12:37,968 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:12:38,024 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:14:32,925 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:14:39,803 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:14:46,467 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:14:59,249 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:16:37,582 日志信息：返回数据：{"Success":0,"Message":"在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:16:37,582 日志信息：返回数据：{"Success":0,"Message":"在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:16:58,442 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:21:23,111 日志信息：返回数据：{"Success":0,"Message":"值不能为 null。\r\n参数名: value","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:21:28,556 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:22:06,604 日志信息：返回数据：{"Success":0,"Message":"密码不正确!","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:23:53,409 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:24:14,246 日志信息：返回数据：{"Success":0,"Message":"金额信息异常","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:24:35,988 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:25:22,439 日志信息：返回数据：{"Success":0,"Message":"金额信息异常","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:26:06,239 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:27:00,937 日志信息：返回数据：{"Success":0,"Message":"金额信息异常","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:27:42,203 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:27:57,426 日志信息：返回数据：{"Success":0,"Message":"金额信息异常","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 12:29:17,072 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 12:29:26,344 日志信息：返回数据：{"Success":1,"Message":"1000000384","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-03-06 13:40:53,156 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为： 
+
+Info时间：2017-03-06 13:41:00,448 日志信息：返回数据：{"Success":1,"Message":"1000000385","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------

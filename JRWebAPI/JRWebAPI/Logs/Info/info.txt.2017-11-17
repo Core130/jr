@@ -1,0 +1,72 @@
+Info时间：2017-11-17 15:38:40,423 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1 5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 15:38:40,990 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 15:42:02,960 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：=UserCode=demo&CipherPassword=5246543K4Y3K&StrAccID=006&Act=add&Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"}&ModelType=8008; 
+
+Info时间：2017-11-17 15:42:02,960 日志信息：返回数据：{"Success":0,"Message":"对于“JRWebAPI.Controllers.U8ApiController”中方法“System.String AddModels(System.String, System.String, Int32, System.String, System.String, System.String)”的不可以为 null 的类型“System.Int32”的参数“ModelType”，参数字典包含一个 null 项。可选参数必须为引用类型、可以为 null 的类型或声明为可选参数。\r\n参数名: parameters","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 15:43:38,466 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 15:43:38,544 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:01:10,257 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:01:11,012 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:02:31,054 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:02:31,318 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:03:36,187 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:03:59,382 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:04:18,277 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:04:58,326 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:07:07,331 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:07:36,266 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:08:03,940 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:08:33,138 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:08:41,961 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:09:55,240 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:10:25,094 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1 5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:10:34,263 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:19:30,927 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={;=quot;cCusCode,quot;:,quot;test110,quot;,,quot;cCusName,quot;:,quot;测试客户110,quot;,,quot;cCusAbbName,quot;:,quot;测试客户110,quot;,,quot;cCusDepart,quot;:,quot;SZ300104,quot;,,quot;cCusDepName,quot;:null,,quot;cCusDefine1,quot;:,quot;1 5渠道,quot;,,quot;cCCCode,quot;:,quot;SZ01,quot;,,quot;cCusWhCode,quot;:null,,quot;cMemo,quot;:null,,quot;cMaker,quot;:null,,quot;cCusAddress,quot;:,quot;紫光信息港,quot;,,quot;cCusHand,quot;:,quot;18836241241,quot;,,quot;cCusPerson,quot;:,quot;张三,quot;};ModelType=8008; 
+
+Info时间：2017-11-17 16:19:39,930 日志信息：返回数据：{"Success":0,"Message":"Unexpected end when deserializing object. Path '', line 1, position 1.","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:21:21,093 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:21:23,391 日志信息：返回数据：{"Success":1,"Message":"006_test110","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:30:48,992 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cCusCode":"test110","cCusName":"测试客户110","cCusAbbName":"测试客户110","cCusDepart":"SZ300104","cCusDepName":null,"cCusDefine1":"1+5渠道","cCCCode":"SZ01","cCusWhCode":null,"cMemo":null,"cMaker":null,"cCusAddress":"紫光信息港","cCusHand":"18836241241","cCusPerson":"张三"};ModelType=8008; 
+
+Info时间：2017-11-17 16:30:56,975 日志信息：返回数据：{"Success":0,"Message":"006_U8中不存在客户分类编码或分类编码非末级:SZ01!","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:31:10,021 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCode":"test123","cInvName":"测试存货123","cInvStd":"4*4","cInvCCode":"101","cMaker":null,"bBarCode":null,"cBarCode":"201707111513","iInvSPrice":8.0,"fRetailPrice":50.0,"cPackingType":"4箱*4","cGroupCode":null,"cComUnitCode":"个","cValueType":"全月平均法"};ModelType=8012; 
+
+Info时间：2017-11-17 16:31:10,282 日志信息：返回数据：{"Success":1,"Message":"006_test123","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:31:52,318 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCode":"test123","cInvName":"测试存货123","cInvStd":"4*4","cInvCCode":"101","cMaker":null,"bBarCode":null,"cBarCode":"201707111513","iInvSPrice":8.0,"fRetailPrice":50.0,"cPackingType":"4箱*4","cGroupCode":null,"cComUnitCode":"个","cValueType":"全月平均法"};ModelType=8012; 
+
+Info时间：2017-11-17 16:31:52,517 日志信息：返回数据：{"Success":1,"Message":"006_test123","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:31:53,728 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCode":"test123","cInvName":"测试存货123","cInvStd":"4*4","cInvCCode":"101","cMaker":null,"bBarCode":null,"cBarCode":"201707111513","iInvSPrice":8.0,"fRetailPrice":50.0,"cPackingType":"4箱*4","cGroupCode":null,"cComUnitCode":"个","cValueType":"全月平均法"};ModelType=8012; 
+
+Info时间：2017-11-17 16:31:53,927 日志信息：返回数据：{"Success":1,"Message":"006_test123","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-17 16:32:48,393 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"cInvCode":"test123","cInvName":"测试存货123","cInvStd":"4*4","cInvCCode":"1","cMaker":null,"bBarCode":null,"cBarCode":"201707111513","iInvSPrice":8.0,"fRetailPrice":50.0,"cPackingType":"4箱*4","cGroupCode":null,"cComUnitCode":"个","cValueType":"全月平均法"};ModelType=8012; 
+
+Info时间：2017-11-17 16:32:48,429 日志信息：返回数据：{"Success":0,"Message":"006_U8中不存在存货分类编码或非末级:1!","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------

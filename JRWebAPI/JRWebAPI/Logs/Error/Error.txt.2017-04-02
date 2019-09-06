@@ -1,0 +1,88 @@
+出错时间：2017-04-02 13:34:41,496 日志信息：JR.HL.JRException: 数据传递有误，已存在该单号!
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 323
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 289
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 97
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+出错时间：2017-04-02 13:34:54,220 日志信息：System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@bcosting int,@DLID int,@cInvCode nvarchar(6),@bSettleAll int,@' 需要参数 '@cWhCode'，但未提供该参数。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 485
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 289
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 97
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:b2957c8f-9b61-4630-928d-2707978df8fe
+Error Number:8178,State:1,Class:16
+出错时间：2017-04-02 13:35:46,806 日志信息：System.Data.SqlClient.SqlException (0x80131904): INSERT 语句与 FOREIGN KEY 约束"FK__DispatchL__cWhCo__785FB566"冲突。该冲突发生于数据库"UFDATA_006_2016"，表"dbo.Warehouse", column 'cWhCode'。
+语句已终止。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 485
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 289
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 97
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:deb8a9b1-98ef-4e98-8263-b212e0ec695e
+Error Number:547,State:0,Class:16
+出错时间：2017-04-02 13:36:32,698 日志信息：System.Data.SqlClient.SqlException (0x80131904): INSERT 语句与 FOREIGN KEY 约束"FK__DispatchL__cWhCo__785FB566"冲突。该冲突发生于数据库"UFDATA_006_2016"，表"dbo.Warehouse", column 'cWhCode'。
+语句已终止。
+   在 JR.BLL.DispatchListBll.InsertDispatchList(EntityDispatchListHead DispatchListHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 485
+   在 JR.BLL.DispatchListBll.AddDispatchList(String UserCode, String PlainPassword, Int32 ModelType, String StrAccID, Int32 AccYear, String Act, EntityDispatchListHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\DispatchListBll.cs:行号 289
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 97
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:deb8a9b1-98ef-4e98-8263-b212e0ec695e
+Error Number:547,State:0,Class:16

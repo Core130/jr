@@ -1,0 +1,103 @@
+出错时间：2017-11-29 11:14:35,365 日志信息：JR.HL.JRException: 数据传递有误，ERP中已存在该出库单号!
+   在 JR.BLL.RdRecord09Bll.InsertRdRecord09(EntityRdRecord09Head RdRecord09Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord09Bll.cs:行号 189
+   在 JR.BLL.RdRecord09Bll.AddRdRecord09(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, EntityRdRecord09Head entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\RdRecord09Bll.cs:行号 153
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 78
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+出错时间：2017-11-29 11:33:08,883 日志信息：JR.HL.JRException: 数据传递有误，ERP中已存在该调拨单号!
+   在 JR.BLL.TransVouchBll.AddTransVouch(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, EntityTransVouch entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\TransVouchBll.cs:行号 108
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+出错时间：2017-11-29 11:33:46,582 日志信息：System.Data.SqlClient.SqlException (0x80131904): 在 SET 子句中多次指定了列名 'cTVBatch'。在同一 SET 子句中不得为一个列分配多个值。请修改 SET 子句，以确保一个列仅更新一次。如果 SET 子句更新了某视图的多列，那么列名 'cTVBatch' 可能会在该视图定义中出现两次。
+   在 JR.BLL.TransVouchBll.InsertTransVouch(EntityTransVouch Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\TransVouchBll.cs:行号 235
+   在 JR.BLL.TransVouchBll.AddTransVouch(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, EntityTransVouch entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\TransVouchBll.cs:行号 143
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:36e136fa-2246-4c22-822c-9bcc1d8b678d
+Error Number:264,State:1,Class:16
+出错时间：2017-11-29 11:35:36,624 日志信息：System.Data.SqlClient.SqlException (0x80131904): 在 SET 子句中多次指定了列名 'cTVBatch'。在同一 SET 子句中不得为一个列分配多个值。请修改 SET 子句，以确保一个列仅更新一次。如果 SET 子句更新了某视图的多列，那么列名 'cTVBatch' 可能会在该视图定义中出现两次。
+   在 JR.BLL.TransVouchBll.InsertTransVouch(EntityTransVouch Head) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\TransVouchBll.cs:行号 235
+   在 JR.BLL.TransVouchBll.AddTransVouch(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, EntityTransVouch entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\TransVouchBll.cs:行号 143
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 188
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:36e136fa-2246-4c22-822c-9bcc1d8b678d
+Error Number:264,State:1,Class:16
+出错时间：2017-11-29 11:44:06,941 日志信息：JR.HL.JRException: 数据传递有误，已存在该盘点单号!
+   在 JR.BLL.CheckVouchBll.InsertCheckVouch(EntityCheckVouchHead checkVouchHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\CheckVouch.cs:行号 159
+   在 JR.BLL.CheckVouchBll.AddCheckVouch(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, EntityCheckVouchHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\CheckVouch.cs:行号 127
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 212
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)

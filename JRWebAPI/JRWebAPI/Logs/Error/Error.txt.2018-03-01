@@ -1,0 +1,42 @@
+出错时间：2018-03-01 16:16:19,042 日志信息：JR.HL.JRException: 数据传递有误，已存在收付款单号!
+   在 JR.BLL.Ap_CloseBillBll.InsertAp_CloseBill(EntityAp_CloseBillHead Ap_CloseBillHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\Ap_CloseBillBll.cs:行号 165
+   在 JR.BLL.Ap_CloseBillBll.AddAp_CloseBill(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, Int32 ModelType, EntityAp_CloseBillHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\Ap_CloseBillBll.cs:行号 130
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 116
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+出错时间：2018-03-01 16:26:33,226 日志信息：System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@ifaresettled_f decimal(1,0),@iID int,@iType int,@bPrePay int,@' 需要参数 '@cKm'，但未提供该参数。
+   在 JR.BLL.Ap_CloseBillBll.InsertAp_CloseBill(EntityAp_CloseBillHead Ap_CloseBillHead) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\Ap_CloseBillBll.cs:行号 279
+   在 JR.BLL.Ap_CloseBillBll.AddAp_CloseBill(String UserCode, String PlainPassword, String StrAccID, Int32 AccYear, String Act, Int32 ModelType, EntityAp_CloseBillHead entity, Int32& success) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JR.BLL\Ap_CloseBillBll.cs:行号 130
+   在 JRWebAPI.Controllers.U8ApiController.AddModels(String UserCode, String CipherPassword, Int32 ModelType, String StrAccID, String Act, String Entity) 位置 d:\SVNDATA\J02_京润\JRWebAPI\JRWebAPI\Controllers\U8ApiController.cs:行号 116
+   在 lambda_method(Closure , ControllerBase , Object[] )
+   在 System.Web.Mvc.ActionMethodDispatcher.Execute(ControllerBase controller, Object[] parameters)
+   在 System.Web.Mvc.ReflectedActionDescriptor.Execute(ControllerContext controllerContext, IDictionary`2 parameters)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionMethod(ControllerContext controllerContext, ActionDescriptor actionDescriptor, IDictionary`2 parameters)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass42.<BeginInvokeSynchronousActionMethod>b__41()
+   在 System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass8`1.<BeginSynchronous>b__7(IAsyncResult _)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<BeginInvokeActionMethodWithFilters>b__33()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass4f.<InvokeActionMethodFilterAsynchronously>b__49()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__36(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<>c__DisplayClass2a.<BeginInvokeAction>b__20()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+ClientConnectionId:1df16475-50f0-4d76-92d0-d1d647c2e155
+Error Number:8178,State:1,Class:16

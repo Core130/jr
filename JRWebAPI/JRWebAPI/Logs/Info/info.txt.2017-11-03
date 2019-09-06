@@ -1,0 +1,72 @@
+Info时间：2017-11-03 15:04:18,190 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=query;Entity={"cInvCode":"1","noSettleTaxCost":0.0,"SettleTaxCost":0.0};ModelType=8024; 
+
+Info时间：2017-11-03 15:04:18,405 日志信息：返回数据：{"Success":0,"Message":"GetModels(查询)中没有找到可对应的操作项","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:08:00,093 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=;StrAccID=006;Act=get;Entity={"cInvCode":"1","noSettleTaxCost":0.0,"SettleTaxCost":0.0};ModelType=8024; 
+
+Info时间：2017-11-03 15:08:00,136 日志信息：返回数据：{"Success":0,"Message":"密码不正确!","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:08:45,846 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=52657K696W6570614K;StrAccID=006;Act=get;Entity={"cInvCode":"1","noSettleTaxCost":0.0,"SettleTaxCost":0.0};ModelType=8024; 
+
+Info时间：2017-11-03 15:08:45,882 日志信息：返回数据：{"Success":0,"Message":"密码不正确!","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:11:19,402 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="";ModelType=8024; 
+
+Info时间：2017-11-03 15:11:19,530 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:11:37,104 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:11:37,217 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:11:40,214 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:11:40,297 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:11:56,745 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:11:56,865 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:13:31,157 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:13:45,233 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:13:52,213 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:15:35,897 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:16:19,806 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:16:19,882 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:17:42,744 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:17:42,781 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:19:33,432 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity="444081";ModelType=8024; 
+
+Info时间：2017-11-03 15:19:33,515 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":null,"noSettleTaxCost":0.0,"SettleTaxCost":0.0}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 15:21:21,715 日志信息：接收到请求地址为：http://localhost:45249/U8Api/GetModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=get;Entity=444081;ModelType=8024; 
+
+Info时间：2017-11-03 15:21:21,791 日志信息：返回数据：{"Success":1,"Message":"","Entity":{"cInvCode":"444081","noSettleTaxCost":0.070000,"SettleTaxCost":0.070000}} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 16:59:52,512 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"DLID":0,"cVouchType":null,"cSTCode":"2","dDate":"2017-11-03T00:00:00","cDepCode":"SZ300127","cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":"0220022","cCusName":null,"cBusType":null,"cDLCode":"WT20171100000001","cSOCode":null,"cDefine1":"合同","cDefine14":null,"cMaker":null,"cSysBarCode":null,"cDefine3":"是","cMemo":null,"cDefine8":null,"ccusperson":null,"cShipAddress":null,"Details":[{"iQuotedPrice":200.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":200.0,"KL":0.0,"KL2":0.0,"iTaxRate":17.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"1070200307","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":1.0,"iUnitPrice":0.0,"DHID":"0"},{"iQuotedPrice":0.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":-90.0,"KL":0.0,"KL2":0.0,"iTaxRate":0.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"102111","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":0.0,"iUnitPrice":0.0,"DHID":"0"}]};ModelType=8025; 
+
+Info时间：2017-11-03 16:59:52,653 日志信息：返回数据：{"Success":0,"Message":"AddModels中没有找到可对应的操作项","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 17:00:28,321 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"DLID":0,"cVouchType":null,"cSTCode":"2","dDate":"2017-11-03T00:00:00","cDepCode":"SZ300127","cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":"0220022","cCusName":null,"cBusType":null,"cDLCode":"WT20171100000001","cSOCode":null,"cDefine1":"合同","cDefine14":null,"cMaker":null,"cSysBarCode":null,"cDefine3":"是","cMemo":null,"cDefine8":null,"ccusperson":null,"cShipAddress":null,"Details":[{"iQuotedPrice":200.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":200.0,"KL":0.0,"KL2":0.0,"iTaxRate":17.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"1070200307","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":1.0,"iUnitPrice":0.0,"DHID":"0"},{"iQuotedPrice":0.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":-90.0,"KL":0.0,"KL2":0.0,"iTaxRate":0.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"102111","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":0.0,"iUnitPrice":0.0,"DHID":"0"}]};ModelType=8025; 
+
+Info时间：2017-11-03 17:00:29,798 日志信息：返回数据：{"Success":1,"Message":"006_1000025816","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 17:04:19,580 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"DLID":0,"cVouchType":null,"cSTCode":"2","dDate":"2017-11-03T00:00:00","cDepCode":"SZ300115","cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":"0207006","cCusName":null,"cBusType":null,"cDLCode":"TWT20171100000001","cSOCode":null,"cDefine1":"合同","cDefine14":null,"cMaker":null,"cSysBarCode":null,"cDefine3":"是","cMemo":null,"cDefine8":null,"ccusperson":null,"cShipAddress":null,"Details":[{"iQuotedPrice":369.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":-369.0,"KL":0.0,"KL2":0.0,"iTaxRate":17.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"1070200902","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"CD049","iQuantity":-1.0,"iUnitPrice":0.0,"DHID":"0"}]};ModelType=8026; 
+
+Info时间：2017-11-03 17:04:19,844 日志信息：返回数据：{"Success":1,"Message":"006_1000025817","Entity":null} 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 17:05:34,108 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"DLID":0,"cVouchType":null,"cSTCode":"2","dDate":"2017-03-29T00:00:00","cDepCode":"SZ300127","cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":"0220022","cCusName":null,"cBusType":null,"cDLCode":"CS20170300006849","cSOCode":null,"cDefine1":"合同","cDefine14":null,"cMaker":null,"cSysBarCode":null,"cDefine3":"是","cMemo":null,"cDefine8":null,"ccusperson":null,"cShipAddress":null,"Details":[{"iQuotedPrice":200.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":200.0,"KL":0.0,"KL2":0.0,"iTaxRate":17.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"1070200307","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":1.0,"iUnitPrice":0.0,"DHID":"0"},{"iQuotedPrice":0.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":-90.0,"KL":0.0,"KL2":0.0,"iTaxRate":0.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"102111","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"SZ094","iQuantity":0.0,"iUnitPrice":0.0,"DHID":"0"}]};ModelType=8005; 
+
+Info时间：2017-11-03 17:05:34,271 日志信息：返回数据：{"Success":0,"Message":"U8单据日期所在月份已经结账！","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------
+Info时间：2017-11-03 17:05:35,566 日志信息：接收到请求地址为：http://localhost:45249/U8Api/AddModels，请求数据为：UserCode=demo;CipherPassword=5246543K4Y3K;StrAccID=006;Act=add;Entity={"DLID":0,"cVouchType":null,"cSTCode":"2","dDate":"2016-12-19T00:00:00","cDepCode":"SZ300115","cexch_name":null,"iExchRate":0.0,"bFirst":0,"bReturnFlag":0,"bSettleAll":0,"iVTid":0,"cCusCode":"0207006","cCusName":null,"cBusType":null,"cDLCode":"TH20161100000042","cSOCode":null,"cDefine1":"合同","cDefine14":null,"cMaker":null,"cSysBarCode":null,"cDefine3":"是","cMemo":null,"cDefine8":null,"ccusperson":null,"cShipAddress":null,"Details":[{"iQuotedPrice":369.0,"iTaxUnitPrice":0.0,"iMoney":0.0,"iTax":0.0,"iNatUnitPrice":0.0,"iNatMoney":0.0,"iNatTax":0.0,"iNatSum":0.0,"iNatDisCount":0.0,"iDisCount":0.0,"iSum":-369.0,"KL":0.0,"KL2":0.0,"iTaxRate":17.0,"fSaleCost":0.0,"fSalePrice":0.0,"iRowNo":0,"cbSysBarCode":null,"bcosting":0,"AutoID":0,"DLID":0,"cInvCode":"1070200902","cInvName":null,"bSettleAll":0,"iDLsID":0,"bQANeedCheck":0,"bQAUrgency":0,"bQAChecking":0,"bQAChecked":0,"cWhCode":"CD049","iQuantity":-1.0,"iUnitPrice":0.0,"DHID":"0"}]};ModelType=8003; 
+
+Info时间：2017-11-03 17:05:35,679 日志信息：返回数据：{"Success":0,"Message":"U8单据日期所在月份已经结账！","Entity":null} 
+ --------------------------------------------------------------------------------------------------------------------------------------------

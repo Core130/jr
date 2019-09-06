@@ -1,0 +1,5 @@
+D:\SVNDATA\J02_京润\JRWebAPI\JR.Models\bin\Debug\JR.Models.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JR.Models\bin\Debug\JR.Models.pdb
+D:\SVNDATA\J02_京润\JRWebAPI\JR.Models\obj\Debug\JR.Models.dll
+D:\SVNDATA\J02_京润\JRWebAPI\JR.Models\obj\Debug\JR.Models.pdb
+D:\SVNDATA\J02_京润\JRWebAPI\JR.Models\obj\Debug\JR.Models.csprojResolveAssemblyReference.cache
